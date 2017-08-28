@@ -6,6 +6,6 @@ When analyzing Google Analytics cookies, you will see an Urchin Tracking Module 
 
 **Simple GUI interface:**
 
-
+![](https://github.com/danzek/google-analytics-domain-hash-calculator/raw/master/GoogleDomainHashCalculator/gui.png)
 
 For more information see https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
