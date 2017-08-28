@@ -6,7 +6,7 @@ When analyzing Google Analytics cookies, you will see an Urchin Tracking Module 
 
 **Simple GUI interface:**
 
-![GUI](https://raw.githubusercontent.com/danzek/google-analytics-domain-hash-calculator/master/GoogleDomainHashCalculator/gui.png)
+![GUI](GoogleDomainHashCalculator/gui.png)
 
 I also wrote [a C++ version of the hash function.](https://gist.github.com/danzek/8bc7820dfefa025e681bc4f4a7a02627)
 
