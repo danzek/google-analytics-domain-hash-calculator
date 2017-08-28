@@ -8,6 +8,10 @@ When analyzing Google Analytics cookies, you will see an Urchin Tracking Module 
 
 ![GUI](GoogleDomainHashCalculator/gui.png)
 
+[**Download Compiled Assembly (EXE)**](http://4n68r.com/downloads/GoogleDomainHashCalculator.exe)
+
+Note you will need the .NET 4.5 runtime.
+
 I also wrote [a C++ version of the hash function.](https://gist.github.com/danzek/8bc7820dfefa025e681bc4f4a7a02627)
 
 For more information see https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
