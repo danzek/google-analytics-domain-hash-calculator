@@ -12,11 +12,10 @@ When analyzing Google Analytics cookies, you will see an Urchin Tracking Module 
 
 Note you will need the .NET 4.5 runtime.
 
-I also wrote [a C++ version of the hash function.](https://gist.github.com/danzek/8bc7820dfefa025e681bc4f4a7a02627)
+I also wrote [a C++ Gist of the hash function](https://gist.github.com/danzek/8bc7820dfefa025e681bc4f4a7a02627) and [a C++ CLI](https://github.com/danzek/gadhash) for Linux &mdash; see [`gadhash` repo.](https://github.com/danzek/gadhash).
 
 For more information see https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
 
 ## C++ CLI
 
-`gadhash` coming soon....
-
+[`gadhash` is a C++ command-line interface](https://github.com/danzek/gadhash) that accepts a list of domains (in file(s) or from stdin) and outputs a delimited file containing the hashes.
