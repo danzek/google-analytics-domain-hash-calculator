@@ -15,3 +15,8 @@ Note you will need the .NET 4.5 runtime.
 I also wrote [a C++ version of the hash function.](https://gist.github.com/danzek/8bc7820dfefa025e681bc4f4a7a02627)
 
 For more information see https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+
+## C++ CLI
+
+`gadhash` coming soon....
+
